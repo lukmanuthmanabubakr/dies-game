@@ -45,7 +45,7 @@ main {
   transition: all 0.75s;
 }
 
-/* ELEMENTS */
+/* ELEMENTS COMPONENT*/
 .name {
   position: relative;
   font-size: 4rem;
